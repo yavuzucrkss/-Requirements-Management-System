@@ -26,49 +26,49 @@ can be updated (from the Nuget Package Manager) to a new version if any update(s
 
 For user authentication
 
-![Screenshot](Screenshots/Login.png)
+![image](https://user-images.githubusercontent.com/81562942/175340039-b42d92c8-6d1e-48cf-a7fd-04207c8dce53.png)
 
 ### Dashboard
 
 Grid view reprentation of application data
 
-![Screenshot](Screenshots/Dashboard.png)
+![image](https://user-images.githubusercontent.com/81562942/175340092-80b5ed0c-20a3-4c5d-bae3-3f69e9657b38.png)
 
 ### Workers 
 
 Displays all workers. New workers can be added, deleted and their info updated
 
-![Screenshot](Screenshots/Workers.png)
+![image](https://user-images.githubusercontent.com/81562942/175340150-21102436-652f-493f-a3cf-e53d5021c68b.png)
 
 ### Tasks
 
 Displays all tasks. Can be used to assigned task to any worker
 
-![Screenshot](Screenshots/Tasks.png)
+![image](https://user-images.githubusercontent.com/81562942/175340209-7c6b8d66-404d-4a60-8e4f-3ac307f0ce47.png)
 
 ### Requirements 
 
 Displays all requirements and can be used to add new requirements.
 
-![Screenshot](Screenshots/Requirements.png)
+![image](https://user-images.githubusercontent.com/81562942/175340266-ba4ea8b4-7574-492e-832b-8e71917e0529.png)
 
 ### User Profile
 
 Shows user info
 
-![Screenshot](Screenshots/Profile.png)
+![image](https://user-images.githubusercontent.com/81562942/175340315-5cf451f7-9698-403c-9b01-3128cd89c10e.png)
 
 ### Work Evaluation
 
 This page evaluates submitted task using a simple DFA model
 
-![Screenshot](Screenshots/Evaluation.png)
+![image](https://user-images.githubusercontent.com/81562942/175340384-f9c8a2c7-81b1-4b29-928c-61d1613eb4da.png)
 
 ### My Tasks
 
 Users can see task assigned to them from this page. They can as well submit(with a link) their task if completed. 
 
-![Screenshot](Screenshots/MyTask.png)
+![image](https://user-images.githubusercontent.com/81562942/175340437-c59e8e2b-1fd4-4c1e-a1f3-126e1330948d.png)
 
 ## Contributors
 
